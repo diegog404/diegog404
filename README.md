@@ -6,13 +6,13 @@ Meu nome é Diego Gomes Nogueira da Silva, tenho 25 anos e estou buscando uma op
 ## Principais conhecimentos
 
 - Linguagens de Programação: C# e Java
-- Frameworks: .NET e Spring Boot
+- Frameworks: .NET, .NET Core, Entity Framework e Spring Boot
 - Paradigmas: Orientação à Objetos
 - Arquiteturas de Desenvolvimento: Padrão Camadas e MVC
-- Bancos de dados: SQL Server e PostgreSQL
-- Versionamento de código: Git
+- Bancos de dados: MySQL e PostgreSQL
+- Versionamento de código: Git e Github
 - APIs: REST
-- Soft Skills: Trabalho em Equipe, Resolução de problemas, comunicação
+- Soft Skills: Trabalho em Equipe, Resolução de problemas, comunicação.
 
 ## Principais projetos
 - Sistema de Relatório de Vendas Web: Projeto realizado no curso de C# Programação Orientada à Objetos da Udemy. Link: https://github.com/diegog404/saleswebmvc
