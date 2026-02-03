@@ -15,7 +15,7 @@ Meu nome é Diego Gomes Nogueira da Silva, tenho 25 anos e estou buscando uma op
 - Soft Skills: Trabalho em Equipe, Resolução de problemas, comunicação
 
 ## Principais projetos
-
+- Sistema de Relatório de Vendas Web: Projeto realizado no curso de C# Programação Orientada à Objetos da Udemy. Link: https://github.com/diegog404/saleswebmvc
 - Back-end Coleção de Jogos: O projeto se baseia em um sistema de coleção de jogos, que fica no servidor, é implantado na nuvem e trabalha com uma API para que um front end possa interagir com o banco de dados e realizar a regra de negócio. Link: https://github.com/diegog404/dslist
 - Jogo de Xadrez em Console: Este projeto foi realizado no curso de C# Programação Orientada à Objetos da Udemy. Link: https://github.com/diegog404/ChessGame
 - TCC Casa de Shows: TCC do Ensino Médio Técnico, que consistiu em construir um sistema para uma casa de shows com módulos Desktop, Web e Mobile. Link: https://github.com/diegog404/TCC-Show
